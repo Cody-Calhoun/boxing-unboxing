@@ -1,0 +1,11 @@
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/C#_assignments/BoxingandUnboxing/obj/Debug/netcoreapp2.2/BoxingandUnboxing.csprojAssemblyReference.cache
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/C#_assignments/BoxingandUnboxing/obj/Debug/netcoreapp2.2/BoxingandUnboxing.csproj.CoreCompileInputs.cache
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/C#_assignments/BoxingandUnboxing/obj/Debug/netcoreapp2.2/BoxingandUnboxing.AssemblyInfoInputs.cache
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/C#_assignments/BoxingandUnboxing/obj/Debug/netcoreapp2.2/BoxingandUnboxing.AssemblyInfo.cs
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/C#_assignments/BoxingandUnboxing/bin/Debug/netcoreapp2.2/BoxingandUnboxing.deps.json
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/C#_assignments/BoxingandUnboxing/bin/Debug/netcoreapp2.2/BoxingandUnboxing.runtimeconfig.json
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/C#_assignments/BoxingandUnboxing/bin/Debug/netcoreapp2.2/BoxingandUnboxing.runtimeconfig.dev.json
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/C#_assignments/BoxingandUnboxing/bin/Debug/netcoreapp2.2/BoxingandUnboxing.dll
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/C#_assignments/BoxingandUnboxing/bin/Debug/netcoreapp2.2/BoxingandUnboxing.pdb
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/C#_assignments/BoxingandUnboxing/obj/Debug/netcoreapp2.2/BoxingandUnboxing.dll
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/C#_assignments/BoxingandUnboxing/obj/Debug/netcoreapp2.2/BoxingandUnboxing.pdb
